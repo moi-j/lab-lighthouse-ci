@@ -4,7 +4,7 @@ module.exports = {
       startServerCommand: "npm start",
       numberOfRuns: 3,
       url: [
-        "https://www.biznagafest.com",
+        "https://www.biznagafest.com"
         // "http://localhost:3000/",
         // "http://localhost:3000/about",
         // "http://localhost:3000/blog",
